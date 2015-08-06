@@ -2,6 +2,8 @@
 
 This is a little tool to show positions on a google map coming from the JSON we're using in our apps.
 
+Served at http://docs.ehealthafrica.org/positions-on-map-visualizer
+
 Example JSON:
 
 ```json
